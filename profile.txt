@@ -1,4 +1,4 @@
 Name: Lê Phúc Hậu-219497
 Interests: Coding, Design
 Skills: Git, Python, Web Development
-Cập nhat thong tina
+Chỉnh sửa profile.txt trên feature-info
